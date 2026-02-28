@@ -1,0 +1,7 @@
+/* Minimal styles for the Hugo scaffold */
+body { font-family: system-ui, -apple-system, Arial, sans-serif; margin: 0; padding: 0; }
+.container { max-width: 800px; margin: 0 auto; padding: 1rem; }
+header { background:#f7f7f7; padding: 1rem; }
+.site-title { font-weight: 700; }
+nav a { margin-right: 1rem; }
+footer { background:#f1f1f1; padding: 1rem; text-align: center; margin-top: 2rem; }
